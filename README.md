@@ -18,5 +18,5 @@ We love escape rooms, here we gather the list of the ones we went
 
 - [Solitary 2023](https://www.imdb.com/title/tt20258156/?ref_=fn_al_tt_1)
 - [Foil 2023](https://www.imdb.com/title/tt27374513/?ref_=fn_al_tt_1)
-- [Left.Right](https://www.imdb.com/title/tt26734739/?ref_=fn_al_tt_1)
-- [Dynamite](https://www.imdb.com/title/tt15164298/?ref_=nm_flmg_c_8_act)
+- [Left.Right 2022](https://www.imdb.com/title/tt26734739/?ref_=fn_al_tt_1)
+- [Dynamite 2022](https://www.imdb.com/title/tt15164298/?ref_=nm_flmg_c_8_act)
