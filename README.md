@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We love escape rooms, here we gather the list of the ones we went
+We love escape-rooms, here we gather the list of the ones we went
 
 ## List
 
