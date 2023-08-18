@@ -6,8 +6,6 @@ We love escape-rooms, cinema, etc., here we gather the list of the ones we went.
 
 ## Escape Rooms
 
-### List
-
 - [Hacker](https://escaperoom.ir/escaperoom/tehran/hacker)
 - [Camp Alpha](https://escaperoom.ir/escaperoom/tehran/camp-alpha)
 - [Thirteenth Night](https://escaperoom.ir/escaperoom/tehran/thirteenth-night)
@@ -15,8 +13,6 @@ We love escape-rooms, cinema, etc., here we gather the list of the ones we went.
 - [Opposite](https://escaperoomist.com/product/%d8%a7%d8%aa%d8%a7%d9%82-%d9%81%d8%b1%d8%a7%d8%b1-%d8%b6%d8%af/)
 
 ## Movies
-
-### List
 
 - [Lawless City 2023](https://www.imdb.com/title/tt28230706/?ref_=ttfc_fc_tt)
 - [Fosil 2023](https://www.imdb.com/title/tt27374513/?ref_=fn_al_tt_1)
