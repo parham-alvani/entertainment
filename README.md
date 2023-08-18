@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We love escape-rooms and going to cinema, here we gather the list of the ones we went.
+We love escape-rooms, cinema, etc., here we gather the list of the ones we went.
 
 ## Escape Rooms
 
