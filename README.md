@@ -19,3 +19,9 @@ We love escape-rooms, cinema, etc., here we gather the list of the ones we went.
 - [Left.Right 2022](https://www.imdb.com/title/tt26734739/?ref_=fn_al_tt_1)
 - [Solitary 2023](https://www.imdb.com/title/tt20258156/?ref_=fn_al_tt_1)
 - [Dynamite 2022](https://www.imdb.com/title/tt15164298/?ref_=nm_flmg_c_8_act)
+
+## Performing Arts 🎭
+
+- Screenshot
+- The Terial of Elena
+- Compulsive Prince Nightmares
