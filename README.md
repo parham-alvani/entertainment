@@ -20,6 +20,8 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ## Movies 🍿
 
+- Money and party
+- Texas 3
 - [Alligator Blood 2024](https://www.imdb.com/title/tt30750859/)
 - [Hotel 2023](https://www.imdb.com/title/tt29288757/)
 - [Lawless City 2023](https://www.imdb.com/title/tt28230706/?ref_=ttfc_fc_tt)
