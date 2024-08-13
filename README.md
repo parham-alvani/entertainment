@@ -9,6 +9,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [The Pod Generation](https://www.imdb.com/title/tt15768848/)
 - [How to Get Away with Murder](https://www.imdb.com/title/tt3205802/)
 - [Memories of Murder](https://www.imdb.com/title/tt0353969/)
+- [The Dark Knight](https://www.imdb.com/title/tt0468569/)
 
 ## Escape Rooms 🚪
 
@@ -20,8 +21,8 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ## Movies 🍿
 
-- Money and party
-- Texas 3
+- [Pool & Party 2024](https://www.imdb.com/title/tt33058750/)
+- [Texas 3 2024](https://www.imdb.com/title/tt32540441/)
 - [Alligator Blood 2024](https://www.imdb.com/title/tt30750859/)
 - [Hotel 2023](https://www.imdb.com/title/tt29288757/)
 - [Lawless City 2023](https://www.imdb.com/title/tt28230706/?ref_=ttfc_fc_tt)
