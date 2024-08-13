@@ -10,6 +10,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [How to Get Away with Murder](https://www.imdb.com/title/tt3205802/)
 - [Memories of Murder](https://www.imdb.com/title/tt0353969/)
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/)
+- [The Dark Knight Rises](https://www.imdb.com/title/tt1345836)
 
 ## Escape Rooms 🚪
 
