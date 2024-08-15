@@ -37,6 +37,8 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 ### before Elahe 🤕
 
 - [Pay Back 2010](https://www.imdb.com/title/tt1856748/)
+- [Texas 2 2019](https://www.imdb.com/title/tt11027104/)
+- [Centipede 2018](https://www.imdb.com/title/tt8702938/)
 
 ## Performing Arts 🎭
 
