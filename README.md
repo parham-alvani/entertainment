@@ -26,11 +26,13 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Texas 3 2024](https://www.imdb.com/title/tt32540441/)
 - [Alligator Blood 2024](https://www.imdb.com/title/tt30750859/)
 - [Hotel 2023](https://www.imdb.com/title/tt29288757/)
-- [Lawless City 2023](https://www.imdb.com/title/tt28230706/?ref_=ttfc_fc_tt)
-- [Fosil 2023](https://www.imdb.com/title/tt27374513/?ref_=fn_al_tt_1)
-- [Left, Right 2022](https://www.imdb.com/title/tt26734739/?ref_=fn_al_tt_1)
-- [Solitary 2023](https://www.imdb.com/title/tt20258156/?ref_=fn_al_tt_1)
-- [Dynamite 2022](https://www.imdb.com/title/tt15164298/?ref_=nm_flmg_c_8_act)
+- [Lawless City 2023](https://www.imdb.com/title/tt28230706/)
+- [Fosil 2023](https://www.imdb.com/title/tt27374513/)
+- [Left, Right 2022](https://www.imdb.com/title/tt26734739/)
+- [Solitary 2023](https://www.imdb.com/title/tt20258156/)
+- [Dynamite 2022](https://www.imdb.com/title/tt15164298/)
+
+- [Pay Back 2010](https://www.imdb.com/title/tt1856748/)
 
 ## Performing Arts 🎭
 
