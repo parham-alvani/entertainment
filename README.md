@@ -41,6 +41,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Centipede 2018](https://www.imdb.com/title/tt8702938/)
 - [The Good, the Bad, the Corny 2017](https://www.imdb.com/title/tt6211580/)
 - [I 2016](https://www.imdb.com/title/tt5999174/)
+- [I am not Salvador 2016](https://www.imdb.com/title/tt5568330/)
 
 ## Performing Arts 🎭
 
