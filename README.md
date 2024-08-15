@@ -32,6 +32,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Solitary 2023](https://www.imdb.com/title/tt20258156/)
 - [Dynamite 2022](https://www.imdb.com/title/tt15164298/)
 
+
 - [Pay Back 2010](https://www.imdb.com/title/tt1856748/)
 
 ## Performing Arts 🎭
