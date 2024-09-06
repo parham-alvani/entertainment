@@ -6,11 +6,14 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ## 30Nama 🎥
 
-- [The Pod Generation](https://www.imdb.com/title/tt15768848/)
-- [How to Get Away with Murder](https://www.imdb.com/title/tt3205802/)
-- [Memories of Murder](https://www.imdb.com/title/tt0353969/)
-- [The Dark Knight](https://www.imdb.com/title/tt0468569/)
+- [The Pod Generation](https://www.imdb.com/title/tt15768848)
+- [How to Get Away with Murder](https://www.imdb.com/title/tt3205802)
+- [Memories of Murder](https://www.imdb.com/title/tt0353969)
+- [The Dark Knight](https://www.imdb.com/title/tt0468569)
 - [The Dark Knight Rises](https://www.imdb.com/title/tt1345836)
+- [Suicide Squad](https://www.imdb.com/title/tt1386697)
+- [Birds of Pray](https://www.imdb.com/title/tt7713068)
+- [Unlocked](https://www.imdb.com/title/tt26160190)
 
 ## Escape Rooms 🚪
 
