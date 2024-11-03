@@ -14,6 +14,8 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Suicide Squad](https://www.imdb.com/title/tt1386697)
 - [Birds of Pray](https://www.imdb.com/title/tt7713068)
 - [Unlocked](https://www.imdb.com/title/tt26160190)
+- [Parasite](https://www.imdb.com/title/tt6751668/)
+- [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
 
 ## Escape Rooms 🚪
 
