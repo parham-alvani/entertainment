@@ -35,6 +35,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ### after Elahe 😍
 
+- [Breakfast with Giraffes 2024](https://www.imdb.com/title/tt30764843/)
 - [Pool & Party 2024](https://www.imdb.com/title/tt33058750/)
 - [Texas 3 2024](https://www.imdb.com/title/tt32540441/)
 - [Alligator Blood 2024](https://www.imdb.com/title/tt30750859/)
