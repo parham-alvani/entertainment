@@ -46,6 +46,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Left, Right 2022](https://www.imdb.com/title/tt26734739/)
 - [Solitary 2023](https://www.imdb.com/title/tt20258156/)
 - [Dynamite 2022](https://www.imdb.com/title/tt15164298/)
+- [Cause of Death: Unknown 2023](https://www.imdb.com/title/tt21094124/)
 
 ### before Elahe 🤕
 
