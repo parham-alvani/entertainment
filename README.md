@@ -64,3 +64,13 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [The Trial of Elena](https://www.tiwall.com/p/mohakeme.elena)
 - [Compulsive Prince Nightmares](https://cinematicket.org/movie/detail/6036)
 - [Dordnooshan](https://www.tiwall.com/p/dordnooshan3)
+
+## Letterboxd 🎬
+
+<!-- LETTERBOXD_START -->
+- [Scream 7 (2026)](https://letterboxd.com/film/scream-7/)
+- [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
+- [Weekend in Taipei (2024)](https://letterboxd.com/film/weekend-in-taipei/)
+- [Fresh (2022)](https://letterboxd.com/film/fresh-2022/)
+- [Ready or Not (2019)](https://letterboxd.com/film/ready-or-not-2019/)
+<!-- LETTERBOXD_END -->
