@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.14"
+# dependencies = [
+#   "letterboxdpy",
+# ]
+# ///
 """Fetch watched films from Letterboxd and update README.md."""
 
 import re
