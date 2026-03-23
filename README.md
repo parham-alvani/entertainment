@@ -71,6 +71,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Scream 7 (2026)](https://letterboxd.com/film/scream-7/)
 - [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
 - [Weekend in Taipei (2024)](https://letterboxd.com/film/weekend-in-taipei/)
+- [Dark Harvest (2023)](https://letterboxd.com/film/dark-harvest-2023/)
 - [Fresh (2022)](https://letterboxd.com/film/fresh-2022/)
 - [Ready or Not (2019)](https://letterboxd.com/film/ready-or-not-2019/)
 <!-- LETTERBOXD_END -->
