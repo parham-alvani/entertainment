@@ -69,12 +69,21 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 <!-- LETTERBOXD_START -->
 - [Scream 7 (2026)](https://letterboxd.com/film/scream-7/)
+- [Cold Storage (2026)](https://letterboxd.com/film/cold-storage-2026/)
 - [Greenland 2: Migration (2026)](https://letterboxd.com/film/greenland-2-migration/)
 - [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
+- [Whistle (2025)](https://letterboxd.com/film/whistle-2025-1/) ★★★★★
+- [Fear Street: Prom Queen (2025)](https://letterboxd.com/film/fear-street-prom-queen/)
 - [Weekend in Taipei (2024)](https://letterboxd.com/film/weekend-in-taipei/)
 - [Dark Harvest (2023)](https://letterboxd.com/film/dark-harvest-2023/)
 - [Fresh (2022)](https://letterboxd.com/film/fresh-2022/)
+- [Last Night in Soho (2021)](https://letterboxd.com/film/last-night-in-soho/) ★★★★★
+- [Old (2021)](https://letterboxd.com/film/old-2021/)
+- [Fear Street: 1666 (2021)](https://letterboxd.com/film/fear-street-1666/)
+- [Fear Street: 1978 (2021)](https://letterboxd.com/film/fear-street-1978/)
+- [Fear Street: 1994 (2021)](https://letterboxd.com/film/fear-street-1994/)
 - [Greenland (2020)](https://letterboxd.com/film/greenland/)
+- [The Night House (2020)](https://letterboxd.com/film/the-night-house/) ★★★★★
 - [Ready or Not (2019)](https://letterboxd.com/film/ready-or-not-2019/)
 - [Superbad (2007)](https://letterboxd.com/film/superbad/)
 <!-- LETTERBOXD_END -->
