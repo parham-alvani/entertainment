@@ -85,5 +85,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Greenland (2020)](https://letterboxd.com/film/greenland/)
 - [The Night House (2020)](https://letterboxd.com/film/the-night-house/) ★★★★★
 - [Ready or Not (2019)](https://letterboxd.com/film/ready-or-not-2019/)
+- [The Room (2019)](https://letterboxd.com/film/the-room-2019/)
+- [I See You (2019)](https://letterboxd.com/film/i-see-you-2019/)
 - [Superbad (2007)](https://letterboxd.com/film/superbad/)
 <!-- LETTERBOXD_END -->
