@@ -73,9 +73,11 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Greenland 2: Migration (2026)](https://letterboxd.com/film/greenland-2-migration/)
 - [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
 - [Whistle (2025)](https://letterboxd.com/film/whistle-2025-1/) ★★★★★
+- [Nuremberg (2025)](https://letterboxd.com/film/nuremberg-2025/)
 - [Fear Street: Prom Queen (2025)](https://letterboxd.com/film/fear-street-prom-queen/)
 - [Weekend in Taipei (2024)](https://letterboxd.com/film/weekend-in-taipei/)
 - [Dark Harvest (2023)](https://letterboxd.com/film/dark-harvest-2023/)
+- [When Evil Lurks (2023)](https://letterboxd.com/film/when-evil-lurks/)
 - [Fresh (2022)](https://letterboxd.com/film/fresh-2022/)
 - [Last Night in Soho (2021)](https://letterboxd.com/film/last-night-in-soho/) ★★★★★
 - [Old (2021)](https://letterboxd.com/film/old-2021/)
@@ -88,4 +90,5 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [The Room (2019)](https://letterboxd.com/film/the-room-2019/)
 - [I See You (2019)](https://letterboxd.com/film/i-see-you-2019/)
 - [Superbad (2007)](https://letterboxd.com/film/superbad/)
+- [Downfall (2004)](https://letterboxd.com/film/downfall/)
 <!-- LETTERBOXD_END -->
