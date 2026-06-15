@@ -98,6 +98,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [HIM (2025)](https://letterboxd.com/film/him-2025/)
 - [Normal (2025)](https://letterboxd.com/film/normal-2025/)
 - [Nuremberg (2025)](https://letterboxd.com/film/nuremberg-2025/)
+- [Fuze (2025)](https://letterboxd.com/film/fuze/)
 - [The Conjuring: Last Rites (2025)](https://letterboxd.com/film/the-conjuring-last-rites/)
 - [Frankenstein (2025)](https://letterboxd.com/film/frankenstein-2025/)
 - [The Haunted Forest (2025)](https://letterboxd.com/film/the-haunted-forest/)

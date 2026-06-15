@@ -8,7 +8,16 @@
 
 import re
 
+from letterboxdpy.core.scraper import Scraper
 from letterboxdpy.user import User
+
+# Letterboxd blocks requests with a missing/suspicious User-Agent (HTTP 403).
+# Set a realistic desktop Chrome UA on the scraper's class-level headers, which
+# is what the classmethod fetch path actually sends.
+Scraper.headers["user-agent"] = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+)
 
 USERNAME = "1995parham"
 README_PATH = "README.md"
