@@ -1205,3 +1205,12 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Gen V (2023)](https://www.imdb.com/title/tt13159924/)
 - [Based on a True Story (2023)](https://www.imdb.com/title/tt19500224/)
 <!-- IMDB_END -->
+
+## IMDb Favorite People 🌟
+
+<!-- IMDB_PEOPLE_START -->
+- [Lance Reddick](https://www.imdb.com/name/nm0714698/) — Actor, known for John Wick (2014)
+- [Keanu Reeves](https://www.imdb.com/name/nm0000206/) — Actor, known for The Matrix (1999)
+- [Charlie Sheen](https://www.imdb.com/name/nm0000221/) — Actor, known for Two and a Half Men (2003)
+- [Kathryn Newton](https://www.imdb.com/name/nm1105980/) — Actress, known for Ant-Man and the Wasp: Quantumania (2023)
+<!-- IMDB_PEOPLE_END -->
