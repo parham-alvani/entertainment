@@ -72,6 +72,8 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Never Change! (2026)](https://letterboxd.com/film/never-change-2026/)
 - [Disclosure Day (2026)](https://letterboxd.com/film/disclosure-day/)
 - [Passenger (2026)](https://letterboxd.com/film/passenger-2026/)
+- [Masters of the Universe (2026)](https://letterboxd.com/film/masters-of-the-universe-2026/)
+- [Colony (2026)](https://letterboxd.com/film/colony-2026/)
 - [The Punisher: One Last Kill (2026)](https://letterboxd.com/film/the-punisher-one-last-kill/)
 - [Backrooms (2026)](https://letterboxd.com/film/backrooms-2026/)
 - [The Sheep Detectives (2026)](https://letterboxd.com/film/the-sheep-detectives/)
@@ -101,6 +103,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Five Nights at Freddy's 2 (2025)](https://letterboxd.com/film/five-nights-at-freddys-2/)
 - [Avatar: Fire and Ash (2025)](https://letterboxd.com/film/avatar-fire-and-ash/)
 - [This Tempting Madness (2025)](https://letterboxd.com/film/this-tempting-madness/)
+- [Goon of the Lagoon (2025)](https://letterboxd.com/film/goon-of-the-lagoon/)
 - [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
 - [The Elixir (2025)](https://letterboxd.com/film/the-elixir-2025/)
 - [Whistle (2025)](https://letterboxd.com/film/whistle-2025-1/) ★★★★★
