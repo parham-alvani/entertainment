@@ -27,6 +27,10 @@ USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
 )
+# The CloudFront edge in front of the endpoint rejects requests that carry
+# neither a `referer` nor this header with a bare HTML 403, before the request
+# ever reaches GraphQL. This is the header the IMDb frontend itself sends.
+CLIENT_NAME = "imdb-web-next"
 PAGE_SIZE = 250
 
 README_PATH = "README.md"
@@ -41,7 +45,11 @@ def _graphql(query: str, variables: dict) -> dict:
     req = urllib.request.Request(
         GRAPHQL_URL,
         data=body,
-        headers={"content-type": "application/json", "user-agent": USER_AGENT},
+        headers={
+            "content-type": "application/json",
+            "user-agent": USER_AGENT,
+            "x-imdb-client-name": CLIENT_NAME,
+        },
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         payload = json.loads(resp.read().decode())
