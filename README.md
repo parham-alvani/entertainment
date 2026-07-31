@@ -68,6 +68,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 ## Letterboxd 🎬
 
 <!-- LETTERBOXD_START -->
+- [The Devil's Mouth (2026)](https://letterboxd.com/film/the-devils-mouth/)
 - [Black Box (2026)](https://letterboxd.com/film/black-box-2026/)
 - [Never Change! (2026)](https://letterboxd.com/film/never-change-2026/)
 - [Disclosure Day (2026)](https://letterboxd.com/film/disclosure-day/)
