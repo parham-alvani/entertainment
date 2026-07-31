@@ -1208,6 +1208,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Piggy (2022)](https://www.imdb.com/title/tt10399608/)
 - [Gen V (2023)](https://www.imdb.com/title/tt13159924/)
 - [Based on a True Story (2023)](https://www.imdb.com/title/tt19500224/)
+- [The Devil's Mouth (2026)](https://www.imdb.com/title/tt36958312/)
 <!-- IMDB_END -->
 
 ## IMDb Favorite People 🌟
