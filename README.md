@@ -68,15 +68,21 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 ## Letterboxd 🎬
 
 <!-- LETTERBOXD_START -->
+- [The Last House (2026)](https://letterboxd.com/film/the-last-house-2026/)
 - [The Devil's Mouth (2026)](https://letterboxd.com/film/the-devils-mouth/)
+- [The Gentleman Thief (2026)](https://letterboxd.com/film/the-gentleman-thief-2026/)
+- [Evil Dead Burn (2026)](https://letterboxd.com/film/evil-dead-burn/) ★★★★★
 - [Black Box (2026)](https://letterboxd.com/film/black-box-2026/)
 - [Never Change! (2026)](https://letterboxd.com/film/never-change-2026/)
+- [The Passenger (2026)](https://letterboxd.com/film/the-passenger-2026-1/)
+- [Hungry (2026)](https://letterboxd.com/film/hungry-2026-1/)
 - [Disclosure Day (2026)](https://letterboxd.com/film/disclosure-day/)
 - [Passenger (2026)](https://letterboxd.com/film/passenger-2026/)
 - [Masters of the Universe (2026)](https://letterboxd.com/film/masters-of-the-universe-2026/)
 - [Colony (2026)](https://letterboxd.com/film/colony-2026/)
 - [The Punisher: One Last Kill (2026)](https://letterboxd.com/film/the-punisher-one-last-kill/)
 - [Backrooms (2026)](https://letterboxd.com/film/backrooms-2026/)
+- [Neglected (2026)](https://letterboxd.com/film/neglected-2026/)
 - [The Sheep Detectives (2026)](https://letterboxd.com/film/the-sheep-detectives/)
 - [Deep Water (2026)](https://letterboxd.com/film/deep-water-2026/)
 - [Thrash (2026)](https://letterboxd.com/film/thrash-2026/)
@@ -92,6 +98,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Wardriver (2026)](https://letterboxd.com/film/wardriver/)
 - [Scream 7 (2026)](https://letterboxd.com/film/scream-7/)
 - [Psycho Killer (2026)](https://letterboxd.com/film/psycho-killer-2026/)
+- [The Mortuary Assistant (2026)](https://letterboxd.com/film/the-mortuary-assistant/)
 - [War Machine (2026)](https://letterboxd.com/film/war-machine-2026/)
 - [Twisted (2026)](https://letterboxd.com/film/twisted-2026/)
 - [The Wrecking Crew (2026)](https://letterboxd.com/film/the-wrecking-crew-2026/)
@@ -103,6 +110,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Greenland 2: Migration (2026)](https://letterboxd.com/film/greenland-2-migration/)
 - [Five Nights at Freddy's 2 (2025)](https://letterboxd.com/film/five-nights-at-freddys-2/)
 - [Avatar: Fire and Ash (2025)](https://letterboxd.com/film/avatar-fire-and-ash/)
+- [Amsterdamned II (2025)](https://letterboxd.com/film/amsterdamned-ii/)
 - [This Tempting Madness (2025)](https://letterboxd.com/film/this-tempting-madness/)
 - [Goon of the Lagoon (2025)](https://letterboxd.com/film/goon-of-the-lagoon/)
 - [The Running Man (2025)](https://letterboxd.com/film/the-running-man-2025/)
