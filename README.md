@@ -19,11 +19,11 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ## Escape Rooms 🚪
 
-### before Elahe 🤕
+### before Elaheh 🤕
 
 - [Hacker](https://escaperoom.ir/escaperoom/tehran/hacker)
 
-### after Elahe 😍
+### after Elaheh 😍
 
 - [Camp Alpha](https://escaperoom.ir/escaperoom/tehran/camp-alpha)
 - [Thirteenth Night](https://escaperoom.ir/escaperoom/tehran/thirteenth-night)
@@ -33,7 +33,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ## Movies 🍿
 
-### after Elahe 😍
+### after Elaheh 😍
 
 - [Seventy Thirty 2024](https://www.imdb.com/title/tt30761784/)
 - [Breakfast with Giraffes 2024](https://www.imdb.com/title/tt30764843/)
@@ -48,7 +48,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 - [Dynamite 2022](https://www.imdb.com/title/tt15164298/)
 - [Cause of Death: Unknown 2023](https://www.imdb.com/title/tt21094124/)
 
-### before Elahe 🤕
+### before Elaheh 🤕
 
 - [Pay Back 2010](https://www.imdb.com/title/tt1856748/)
 - [Texas 2 2019](https://www.imdb.com/title/tt11027104/)
