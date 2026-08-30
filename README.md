@@ -1,5 +1,7 @@
 # Entertainment 👻
 
+![Entertainment banner](assets/banner.webp)
+
 ## Introduction
 
 Here is the list of escape rooms, cinemas, and other attractions we have visited.
