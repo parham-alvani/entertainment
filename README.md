@@ -4,7 +4,31 @@
 
 ## Introduction
 
-Here is the list of escape rooms, cinemas, and other attractions we have visited.
+Here is the list of escape rooms, cinemas, and other attractions we have visited, together with the films we keep track of on [Letterboxd](https://letterboxd.com/1995parham) and IMDb.
+
+Everything up to and including Performing Arts 🎭 is written by hand. The Letterboxd 🎬, IMDb Watchlist 🎞️ and IMDb Favorite People 🌟 sections are generated: each one lives between a pair of HTML comment markers and is overwritten wholesale on every run, so change the list on the site rather than here.
+
+## Updating 🔄
+
+| Script | Section | Markers |
+| --- | --- | --- |
+| `update_letterboxd.py` | Letterboxd 🎬 | `LETTERBOXD_START` / `LETTERBOXD_END` |
+| `update_imdb.py` | IMDb Watchlist 🎞️ | `IMDB_START` / `IMDB_END` |
+| `update_imdb.py` | IMDb Favorite People 🌟 | `IMDB_PEOPLE_START` / `IMDB_PEOPLE_END` |
+
+Both are [PEP 723](https://peps.python.org/pep-0723/) single-file scripts, so [uv](https://docs.astral.sh/uv/) resolves their dependencies on the spot:
+
+```sh
+uv run update_letterboxd.py
+uv run update_imdb.py
+```
+
+`update_letterboxd.py` scrapes the watched films of [`1995parham`](https://letterboxd.com/1995parham) through [`letterboxdpy`](https://pypi.org/project/letterboxdpy/) and renders the rating as stars. `update_imdb.py` skips IMDb's web pages — they sit behind an AWS WAF JavaScript challenge — and queries the public GraphQL endpoint the IMDb frontend itself uses, resolving the share-link profile id to a classic `ur...` user id first.
+
+A few things that will bite you when a run fails:
+
+- Both IMDb lists have to be public in IMDb's privacy settings. Otherwise the API answers `FORBIDDEN: Permission denied` even for the owner's own request.
+- Letterboxd and IMDb both reject plain HTTP clients, so the scripts send a realistic desktop User-Agent. Letterboxd additionally blocks some VPN and proxy exit IPs with `IP or VPN Blocked` — run it from another network when that happens.
 
 ## 30Nama 🎥
 
