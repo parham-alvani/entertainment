@@ -369,7 +369,7 @@ A few things that will bite you when a run fails:
 - [Curse of Chucky (2013)](https://www.imdb.com/title/tt2230358/)
 - [Sinister (2012)](https://www.imdb.com/title/tt1922777/)
 - [As Above, So Below (2014)](https://www.imdb.com/title/tt2870612/)
-- [Happy Tree Friends (2000)](https://www.imdb.com/title/tt0770762/)
+- [Happy Tree Friends (2001)](https://www.imdb.com/title/tt0770762/)
 - [Alien Raiders (2008)](https://www.imdb.com/title/tt0996979/)
 - [Season of the Witch (2011)](https://www.imdb.com/title/tt0479997/)
 - [Captain America: The Winter Soldier (2014)](https://www.imdb.com/title/tt1843866/)
@@ -1266,6 +1266,9 @@ A few things that will bite you when a run fails:
 - [Gen V (2023)](https://www.imdb.com/title/tt13159924/)
 - [Based on a True Story (2023)](https://www.imdb.com/title/tt19500224/)
 - [The Devil's Mouth (2026)](https://www.imdb.com/title/tt36958312/)
+- [Apocalypse Z: The Beginning of the End (2024)](https://www.imdb.com/title/tt27599851/)
+- [Apocalypse Z: New World (2026)](https://www.imdb.com/title/tt37522541/)
+- [Pet (2016)](https://www.imdb.com/title/tt1183374/)
 <!-- IMDB_END -->
 
 ## IMDb Favorite People 🌟
@@ -1275,4 +1278,5 @@ A few things that will bite you when a run fails:
 - [Keanu Reeves](https://www.imdb.com/name/nm0000206/) — Actor, known for The Matrix (1999)
 - [Charlie Sheen](https://www.imdb.com/name/nm0000221/) — Actor, known for Two and a Half Men (2003)
 - [Kathryn Newton](https://www.imdb.com/name/nm1105980/) — Actress, known for Ant-Man and the Wasp: Quantumania (2023)
+- [Carles Torrens](https://www.imdb.com/name/nm2165066/) — Director, known for Sequence (2013)
 <!-- IMDB_PEOPLE_END -->
