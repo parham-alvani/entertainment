@@ -1,0 +1,41 @@
+# Refresh the IMDb sections of README.md every Monday. It runs on the
+# self-hosted runner parham-entertainment on Hatchup app02 (declared in
+# rahacloud/hatchup-infrastructure, host_vars/app02/github_runner.yml),
+# because parham-alvani has no GitHub Actions minutes left.
+#
+# This repository is public, so it has no pull_request trigger, and fork PRs
+# from all outside contributors need approval before any workflow runs.
+name: imdb
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: imdb
+
+jobs:
+  update:
+    runs-on: [self-hosted, parham]
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: astral-sh/setup-uv@v7
+
+      - name: Update README
+        run: uv run update_imdb.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Parham Alvani"
+          git config user.email "parham.alvani@gmail.com"
+          if git diff --quiet README.md; then
+            echo "No change in the IMDb lists"
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: update IMDb lists"
+          git push
