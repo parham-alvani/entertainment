@@ -1236,6 +1236,7 @@ A few things that will bite you when a run fails:
 - [Mutiny (2026)](https://www.imdb.com/title/tt32338669/)
 - [Spider Island (2026)](https://www.imdb.com/title/tt22406048/)
 - [The Last Kiss (2026)](https://www.imdb.com/title/tt33253206/)
+- [Never After Dark (2026)](https://www.imdb.com/title/tt38589433/)
 <!-- IMDB_END -->
 
 ## IMDb Favorite People 🌟
