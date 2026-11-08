@@ -21,6 +21,8 @@ Everything up to and including Performing Arts 🎭 is written by hand. The IMDb
 uv run update_imdb.py
 ```
 
+The [`imdb`](.github/workflows/imdb.yml) workflow runs it every Monday at 00:00 UTC and commits the change as Parham Alvani; it also starts by hand with `gh workflow run imdb.yml`. The job runs on `parham-entertainment`, a self-hosted runner on Hatchup's app02 (labels `self-hosted, parham`), because this account has no GitHub Actions minutes left. That runner is declared in [`rahacloud/hatchup-infrastructure`](https://github.com/rahacloud/hatchup-infrastructure) under `github_runner_extra` in `host_vars/app02/github_runner.yml`. This repository is public and a self-hosted runner runs whatever a workflow gives it, so the workflow has no `pull_request` trigger, and fork pull requests from every outside contributor wait for approval before any workflow runs.
+
 It skips IMDb's web pages — they sit behind an AWS WAF JavaScript challenge — and queries the public GraphQL endpoint the IMDb frontend itself uses, resolving the share-link profile id to a classic `ur...` user id first.
 
 A few things that will bite you when a run fails:
